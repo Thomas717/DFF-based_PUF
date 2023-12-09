@@ -16,4 +16,12 @@ When it comes to the confidentiality of MCU security, both firmware and sensitiv
 
 The traditional method to secure such data is to use battery-backed solution so that the MCU could monitor the attacks actively. Lots of defense mechanisms require continuous power supply to function normally. Notably, the die shield route the cryptographically secure signal and any interruption would cause responses like destruction of the data enforced by the security policy.
 
-However, the IoT application cannot afford such design because of its operating environment. So PUF Physical Unclonable Function (PUF) which is highly sensitive to external interference is the best alternative.
+However, the IoT application cannot afford such design because of its operating environment. So Physical Unclonable Function (PUF) which is highly sensitive to external interference is the best alternative.
+
+
+## Why DFF-based PUF
+foobar
+
+
+## Machine Learning for PUF
+foobar
